@@ -1,0 +1,17 @@
+body{
+    background-color:#9ab3f5;
+    font-size: x-large;
+    font-family: "Gill Sans",sans-serif;
+    margin:5%;
+  
+  }
+  ul{
+    margin: 0 25%;
+    display: inline-table;
+  }
+  footer{
+    font-size: small;
+  }
+  a:hover{
+    color: #cc0e74;
+  }

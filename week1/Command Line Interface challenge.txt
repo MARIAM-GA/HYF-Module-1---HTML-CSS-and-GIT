@@ -1,0 +1,27 @@
+1. Command Line Interface challenge
+=================================
+1.How do I create a hidden file or folder? 
+
+$ touch .hanswer.txt
+
+How do I display it in the CLI?
+$ ls -a
+******************************
+touch index.html main.css
+
+*****************************
+
+ mkdir -p -- a/foo b/bar a/baz
+2.How do I create multiple nested directories, like /c/Users/myusername/these/folders/are/just/for/fun?
+========================================================================================================
+$ pwd
+/c/Users/MINA
+
+$mkdir -p -- these/folders/are/just/for/fun
+
+
+3.How do I append a message to a file, without a newline character, so the output would be:
+============================================================================================
+$ touch someMsgs.txt
+$echo "first message" >>someMsgs.txt
+$echo "second message" >>someMsgs.txt

@@ -1,0 +1,51 @@
+html{
+  background-color:sandybrown;
+}
+body{
+  background-color:sandybrown;
+    
+    font-size: x-large;
+    font-family: "Gill Sans",sans-serif;
+    margin:5%;
+    font-size: 1rem;
+  
+  }
+  p{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  ul{
+    margin: 0 25%;
+    display: inline-table;
+    list-style: none;
+    line-height: 30px;
+    font-size: 1rem;
+    
+  }
+  ul li{
+    font-style: italic;
+   
+  }
+  ul li span{
+    font-weight: bold;
+  }
+  footer{
+    font-size: small;
+  }
+  a:hover{
+    color: #cc0e74;
+  }
+  .container{
+    background-color:white;
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+    border: 4px dashed;
+  
+  }
+h1{
+ border-bottom: 4px dashed;
+ font-style: italic;
+ margin: 0 auto;
+ font-weight: bold;
+}
